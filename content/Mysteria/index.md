@@ -10,8 +10,12 @@ draft: false
 date: 2024-05-22
 ---
 # Introducing Mysteria #todo 
-
-## The Magic
-## The Technology
-## The Rulers
-## The Gods
+## The Foundations
+- [[The Magic]]
+- [[The Technology]]
+- [[The Deities]]
+- [[Historical Records]]
+# The Eterna Archives Campaign
+## Current Events
+- [[Mysteria/The Eterna Archives/The Daily Spell/index]]
+## Campaign Logs

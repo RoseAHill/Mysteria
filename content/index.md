@@ -8,12 +8,13 @@ tags:
 draft: false
 date: 2024-05-22
 ---
-## About
-This site is created by Rosie A-Hill. If you would like to contact her, you can find more details over on the [[Contact]] page.
+# About
+This site is created by Rosie A-Hill. If you would like to contact her or support her, you can find more details over on the [[Contact]] page.
+# Projects
 ## Current Projects
 ### Mysteria
 [[Mysteria/index|Mysteria]], a world rooted in chaos; their people remain dependent on the power that seeks to destroy them.
 ### RPG Compendium
-[The RPG Compendium](rpgs.gmrosie.com) is a log of the games ran in a community of friends, worked on collaboratively.
+[The RPG Compendium](https://rpgs.gmrosie.com/Home) is a log of the games ran in a community of friends, worked on collaboratively.
 ## Hiatus Projects
 None logged so far...

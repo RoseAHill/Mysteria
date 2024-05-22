@@ -1,4 +1,15 @@
-# Anomaly Storms
+---
+title: Anomaly Storms
+description: Magic storms that create an influx of magic into Mysteria
+aliases:
+  - storms
+  - anomaly storms
+tags:
+  - todo
+  - magic
+draft: false
+date: 2024-05-22
+---
 ## Appearance
 Signs of an incoming storm include a rising in [[arcane pressure]]. This can result in a few things:
 - [[arcane static]], which is perceived as hair, clothing, and other objects rising randomly, and can result in arcane static shocks when in contact with the rising objects.
