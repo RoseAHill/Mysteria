@@ -15,7 +15,5 @@ date: 2024-05-22
 - [[Technology of Mysteria|The Technology]]
 - [[Deities of Mysteria|The Deities]]
 - [[Historical Records of Mysteria]]
-# The Eterna Archives Campaign
-## Current Events
-- [[The Daily Spell]]
-## Campaign Logs
+# Campaign Homes
+- [[The Eterna Campaign]]

@@ -1,5 +1,5 @@
 ---
-title: The Eterna Archives Campaign
+title: The Eterna Campaign
 description: A Fabula Ultima campaign set in the world of Mysteria
 aliases:
   - TEA Campagin
