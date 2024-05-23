@@ -6,10 +6,10 @@ aliases:
 tags:
   - todo
   - Mysteria
-draft: true
+draft: false
 date:
 ---
 # Notable People
 ## Academia
-- [[Veridian Jones]] - Prominent academic and researcher of [[Mysteria/Foundation/Obsidia/index|Obsidia]]
+- [[Veridian Jones]] - Prominent academic and researcher of [[Obsidia|Obsidia]]
 - 

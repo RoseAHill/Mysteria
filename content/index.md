@@ -13,7 +13,7 @@ This site is created by Rosie A-Hill. If you would like to contact her or suppor
 # Projects
 ## Current Projects
 ### Mysteria
-[[Mysteria/index|Mysteria]], a world rooted in chaos; their people remain dependent on the power that seeks to destroy them.
+[[The World of Mysteria|Mysteria]], a world rooted in chaos; their people remain dependent on the power that seeks to destroy them.
 ### RPG Compendium
 [The RPG Compendium](https://rpgs.gmrosie.com/Home) is a log of the games ran in a community of friends, worked on collaboratively.
 ## Hiatus Projects

@@ -5,7 +5,7 @@ aliases:
   - Obsidia
 tags:
   - todo
-draft: true
+draft: false
 date:
 ---
 # Obsidia

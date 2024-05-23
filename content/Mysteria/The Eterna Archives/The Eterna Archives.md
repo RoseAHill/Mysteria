@@ -11,3 +11,4 @@ draft: false
 date: 2024-05-22
 ---
 # Current Events
+Enjoy the [[The Daily Spell Vol 2.7 - Rift Sighting by the Arbor-1 Beacon|latest edition of The Daily Spell here]].
