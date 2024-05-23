@@ -11,9 +11,9 @@ date: 2024-05-22
 ---
 # Introducing Mysteria #todo 
 ## The Foundations
-- [[The Magic]]
-- [[The Technology]]
-- [[The Deities]]
+- [[Magic of Mysteria|The Magic]]
+- [[Technology of Mysteria|The Technology]]
+- [[Deities of Mysteria|The Deities]]
 - [[Historical Records of Mysteria]]
 # The Eterna Archives Campaign
 ## Current Events
